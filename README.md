@@ -17,7 +17,7 @@ From within the root directory:
 ##Features Implemented
 
 * Type ahead product dropdown.
-* Responsive design(adopts to various screen siz like tablets, mobile, laptop).
+* Responsive design(adapt to various screen sizes like tablet, mobile, laptop etc...).
 
 ## How to get started
 
