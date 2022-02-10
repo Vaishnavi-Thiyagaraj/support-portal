@@ -30,7 +30,7 @@
     "carbon-components-react": "^7.9.2",
     "css-loader": "^3.4.2",
     "express": "^4.15.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "nodemon": "^2.0.2",
     "react": "^16.12.0",
     "react-autocomplete": "^1.8.1",
